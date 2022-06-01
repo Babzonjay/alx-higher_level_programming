@@ -1,4 +1,4 @@
-nclude "lists.h"
+#include "lists.h"
 
 /**
 * insert_node - inserts  node in a sorted singly linked list
