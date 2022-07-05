@@ -1,4 +1,6 @@
-s module implements a Rectangle object
+#!/usr/bin/python3
+"""
+This module implements a Rectangle object
 """
 
 
